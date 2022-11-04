@@ -12,4 +12,14 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/home/lilith/.nuget/packages/" />
   </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)jindium/2.1.2-alpha/contentFiles/any/net6.0/icon.ico" Condition="Exists('$(NuGetPackageRoot)jindium/2.1.2-alpha/contentFiles/any/net6.0/icon.ico')">
+      <NuGetPackageId>Jindium</NuGetPackageId>
+      <NuGetPackageVersion>2.1.2-alpha</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>icon.ico</Link>
+    </Content>
+  </ItemGroup>
 </Project>
