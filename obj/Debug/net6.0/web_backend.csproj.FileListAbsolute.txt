@@ -1,0 +1,5 @@
+/home/lilith/Documents/Programming/web_backend/obj/Debug/net6.0/web_backend.csproj.AssemblyReference.cache
+/home/lilith/Documents/Programming/web_backend/obj/Debug/net6.0/web_backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/lilith/Documents/Programming/web_backend/obj/Debug/net6.0/web_backend.AssemblyInfoInputs.cache
+/home/lilith/Documents/Programming/web_backend/obj/Debug/net6.0/web_backend.AssemblyInfo.cs
+/home/lilith/Documents/Programming/web_backend/obj/Debug/net6.0/web_backend.csproj.CoreCompileInputs.cache
